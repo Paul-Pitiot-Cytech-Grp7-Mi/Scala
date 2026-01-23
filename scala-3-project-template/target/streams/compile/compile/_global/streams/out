@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/paulpitiot/Library/Mobile Documents/com~apple~CloudDocs/ING 2/S2/Prog Fonctionnel/Fonction/Scala/scala-3-project-template/src/main/scala/Main.scala:19:35 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m19 |[0m  println([32ms"pi(10000000000) = [0m${pi([32m10000000000[0m)}[32m"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                   ^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                   number too large[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
